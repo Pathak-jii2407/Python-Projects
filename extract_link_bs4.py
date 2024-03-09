@@ -25,6 +25,6 @@ def Searching(url,subject):
     
         
 url=input('Enter Link:')
-subject=input('What You are searching')
+subject=input('What are You searching: ')
 
 Searching(url,subject)
